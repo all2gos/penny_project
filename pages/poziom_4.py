@@ -24,11 +24,11 @@ try:
 
                 st.write('Swoją drogą to bardzo zabawne jak te wiadomości wyglądały na początku')
 
-                image1 = Image.open('C:\\Users\\stott\\Desktop\\PUK\\pages\\ss1.png')
-                image2 = Image.open('C:\\Users\\stott\\Desktop\\PUK\\pages\\ss2.png')
-                image3 = Image.open('C:\\Users\\stott\\Desktop\\PUK\\pages\\ss3.png')
-                image4 = Image.open('C:\\Users\\stott\\Desktop\\PUK\\pages\\ss4.png')
-                image5 = Image.open('C:\\Users\\stott\\Desktop\\PUK\\pages\\ss5.png')
+                image1 = Image.open('pages/test.mp3/ss1.png')
+                image2 = Image.open('pages/test.mp3/ss2.png')
+                image3 = Image.open('pages/test.mp3/ss3.png')
+                image4 = Image.open('pages/test.mp3/ss4.png')
+                image5 = Image.open('pages/test.mp3/ss5.png')
 
                 st.image(image1)
                 st.image(image2)
@@ -38,7 +38,7 @@ try:
 
                 st.write('Tak właśnie wyglądały nasze początki xDDD. Jeszcze z ciekawostek to znalazłem np. coś takiego')
 
-                zodiak = Image.open('C:\\Users\\stott\\Desktop\\PUK\\pages\\zodiak.png')
+                zodiak = Image.open('pages/test.mp3/zodiak.png')
                 st.image(zodiak)
                 st.write('Więc mówiłem to conajmniej dwukrotnie!')
                 st.write('Zapraszam na kolejną podstronę')

@@ -12,7 +12,7 @@ try:
 
     if (st.session_state.q1).lower().strip() == 'dukaj':
         st.write('''
-                Ok możemy uznać, że to faktyczny początek naszej zabawy. Jak nietrudno się domyślić myślałem bardzo dużo o tym co się działo w naszej relacji przez ostatni ponad rok (i musiałem grać głupa przy serniczku udając, że nie jestem na świezo z tymi wszystkimi wydarzeniami xDDD) i doszedłem do wniosku, że możemy wyróźnić w niej trzy główne wydarzenia, która w pewien
+                Ok możemy uznać, że to faktyczny początek naszej zabawy. Jak nietrudno się domyślić myślałem bardzo dużo o tym co się działo w naszej relacji przez ostatni ponad rok (i musiałem grać głupa przy serniczku udając, że nie jestem na świezo z tymi wszystkimi wydarzeniami xDDD) i doszedłem do wniosku, że możemy wyróźnić w niej trzy główne wydarzenia, które w pewien
                 sposób wyznaczają ramy pewnych etapów. Te etapy to:
                 1) semestr studiów na PWr
                 2) dość spontaniczy rozwój naszej znajomości (wrócimy do tego tematu szerzej)
