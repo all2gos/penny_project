@@ -16,10 +16,10 @@ try:
 
         st.write('A jak już jesteśmy przy zdjęciach, to możesz spróbować zgadnąć, na którym z tych zdjęć moim zdaniem wyglądasz najładniej:')
 
-        image1 = Image.open('C:\\Users\\stott\\Desktop\\PUK\\pages\\karo1.jpg')
-        image2 = Image.open('C:\\Users\\stott\\Desktop\\PUK\\pages\\karo2.jpg')
-        image3 = Image.open('C:\\Users\\stott\\Desktop\\PUK\\pages\\karo3.jpg')
-        image4 = Image.open('C:\\Users\\stott\\Desktop\\PUK\\pages\\karo4.jpg')
+        image1 = Image.open('pages/karo1.jpg')
+        image2 = Image.open('pages/karo2.jpg')
+        image3 = Image.open('pages/karo3.jpg')
+        image4 = Image.open('pages/karo4.jpg')
 
 
         st.image(image1, caption='Karolina w opcji nr1', width=400)
