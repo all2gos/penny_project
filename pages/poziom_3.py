@@ -24,7 +24,7 @@ try:
         if hint_1:
             st.write('Gdybym miał dowód w latach 90" to ten kolor by został do niego wpisany')
 
-        if st.session_state.q3 == 'zielony':
+        if (st.session_state.q3).lower().strip() == 'zielony':
             st.write('Tak! Nie jestem zbyt biegły w opisy odzieżowe, ale było to coś w stylu ciemnozielonej koszuli, a żeby udowodnić, że mam ejdetyczną pamięć to dodam, że poza tym miałaś wtedy na sobie jasnoniebieskie jeansy i jakieś czarne buty na obcasie. Lecisz dalej')
 
 

@@ -27,7 +27,7 @@ st.write('INSTRUKCJA DZIAŁANIA')
 st.write('Przede wszystkim będę Ci tutaj zadawać pytania, na które będziesz musiała odpowiadać! Ale spokojnie, będą łatwe i milutkie, bo chodzi o to żebyś myślała w trakcie naszej wspólnej zabawy jaki jestem super, a nie żebyś mnie wyklinała przez trudność pytań')
 q0 = st.radio('Przykładowe pytanie: Jaka jest moja ulubiona osoba?', ('Puste pole','Michał Pierdolony Owczarzak', 'Adam Ondra', 'Karolina Sekutowicz'))
 if q0 != 'Puste pole':
-    st.write('Poprawna odpowiedź! Przejdź do następnej podstrony wybierając ją z paska po lewej stronie')
+    st.write('Poprawna odpowiedź! Przejdź do następnej podstrony wybierając ją z paska po lewej stronie (jeżeli jesteś na pc), albo rozwijając menu klikając w strzałkę, w lewym dolnym rogu (jeżeli jesteś na telefonie)')
     st.session_state.q0 = q0
 
 dev = st.button('Ciekawostka #1')

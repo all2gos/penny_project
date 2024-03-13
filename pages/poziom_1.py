@@ -6,7 +6,7 @@ try:
         st.write('--------------')
 
     else:
-        st.write('No i świetnie o to chodzi, poza zadaniami zamkniętymi, których ogólnie będzie mało, przewiduje zadania otwarte, w których odpowiedź to JEDNO SŁOWO, ew. format, który będę przedstawiać przy konkretnym pytaniu')
+        st.write('No i świetnie o to chodzi, poza zadaniami zamkniętymi, których ogólnie będzie mało, przewiduje zadania otwarte, w których odpowiedź to JEDNO SŁOWO, ew. format, który będę przedstawiać przy konkretnym pytaniu. Żeby zatwierdzić odpowiedź musisz wcisnąć enter')
         st.write('Przykładowo:')
         q1 = st.text_input('Kto łączy mnie, Ciebie i Bartka Szyję?')
 
@@ -31,7 +31,7 @@ try:
         secret = st.button('Ciekawostka #1')
 
         if secret:
-            st.write('Ciekawostka developerska: dzięki pomocy funkcji strip i lower nie ma znaczenia ile spacji wpiszesz przed/po danym słowie ani jakich wielkości liter użyjesz: program sam wprowadzi odpowiednie korekty!')
+            st.write('Ciekawostka developerska: dzięki pomocy funkcji strip i lower nie ma znaczenia ile spacji wpiszesz przed/po danym słowie ani jakich wielkości liter użyjesz: program sam wprowadzi odpowiednie korekty! Ale na wszelki wypadek staraj się unikać nadmiercnyh spacji i dużych liter bo mogłem gdzieś zapomnieć xDDD')
 
         wine = st.button('Ciekawostka na temat wina')
 
