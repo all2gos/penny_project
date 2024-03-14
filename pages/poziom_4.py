@@ -36,7 +36,7 @@ try:
                 st.image(image4)
                 st.image(image5)
 
-                st.write('Tak właśnie wyglądały nasze początki xDDD. Jeszcze z ciekawostek to znalazłem np. coś takiego')
+                st.write('I ja nie hiperbolizuje pokazując tylko Twoje początki rozmów, bo na początku tylko Ty je inicjowałaś xDDD. Jeszcze z ciekawostek to znalazłem np. coś takiego')
 
                 zodiak = Image.open('pages/zodiak.png')
                 st.image(zodiak)

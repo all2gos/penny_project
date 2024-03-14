@@ -26,7 +26,7 @@ try:
                     
             to w Wuwie, co wydało mi się na tamtem czas bardzo dziwne, gdy Iwona powiedziała, że jestem do niej aseksualny Ty zamiast coś powiedzieć bardzo się zawstydziłaś co dało mi duże pole do overthinkowego popisu,
                     
-            to w Wuwie słuchałaś głosówki od Janka, w której przed jego dziewczyną nazwał Cię moją dziewczyną (i nie planowałem tego fortela, ok? xD) a Ty zamiast mnie zjebać nie powiedziałaś niczego.
+            to w Wuwie słuchałaś głosówki od Janka, w której przed jego dziewczyną nazwał Cię moją dziewczyną (i nie planowałem tego fortela, naprawdę xD) a Ty zamiast mnie zjebać nie powiedziałaś niczego.
                     
             Nom, większą część naszej wspólnej historii można opowiedzieć nie ruszając się z Wuwy
                     

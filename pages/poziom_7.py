@@ -14,13 +14,13 @@ try:
         st.write('''
     szczerze mówiąc to totalnie nie pamiętałem, że te wydarzenia były najpierw, nie pamiętałem też kolejnej dość ważnej sytuacji, która miała miejsce 25 lipca: postanowiłem głównie zainspirowany tym, że przeczytałem Myśli Nieuczesane wysłać Ci aforyzm,
                 na co zareagowałaś bardzo entuzjastycznie i zażyczyłaś sobie aforyzmu codziennie. Ja totalnie szczerze uznałem to za idealny pretekst żeby móc do Ciebie często pisać xDD. No i teraz w końcu, konkretnie 27 lipca dochodzimy do dnia,
-                który zapamiętałem jako ten, w którym nasza znajomość weszła na nowy poziom. Mam wrażenie, że właśnie od tego dnia nasz kontakt bardzo się zintensyfikował. Gdybym miał właśnie sztywno postawić granice między kolejnymi etapami: pierwszą postawiłbym 28 lutego, a drugą 27 lipca. Czy pamietasz, albo inaczej, czy domyślasz się jakie wydarzenie mam na myśli?''')
+                który zapamiętałem jako ten, w którym nasza znajomość weszła na nowy poziom. Mam wrażenie, że właśnie od tego dnia nasz kontakt bardzo się zintensyfikował. Gdybym miał sztywno postawić granice między kolejnymi etapami: pierwszą postawiłbym 28 lutego, a drugą 27 lipca. Czy pamietasz, albo inaczej, czy domyślasz się jakie wydarzenie mam na myśli?''')
         
 
         st.session_state.q7 = st.radio('Co się wydarzyło 27 lipca, a co sprawiło, że w mojej opinii nastąpił wtedy przełom w naszej znajomości?',('Puste pole','Byłem na weselu Dusz','Byłaś na randce'))
 
         if st.session_state.q7 != 'Puste pole':
-            st.write('Prawda jest taka, że obie te sytuacje miały miejsce 27 lipca. Nie pamiętam dużo z tego wesela. Przypomnę, że na ograłem wtedy kolesia w szachy będąc najebanym albo nawoływałem alpaki, więc miałaś silną konkurencję w kategorii most memorial moments xD')
+            st.write('Prawda jest taka, że obie te sytuacje miały miejsce 27 lipca. Nie pamiętam dużo z tego wesela. Przypomnę, że ograłem wtedy kolesia w szachy będąc najebanym albo nawoływałem alpaki, więc miałaś silną konkurencję w kategorii most memorial moments a jednak się załapałaś bez większego kłopotu xD')
 
 
 except AttributeError:

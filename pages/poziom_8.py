@@ -11,7 +11,7 @@ try:
     if st.session_state.q7 != 'Puste pole':
         st.write('No i cytując klasyka: poszły konie po betonie. Od tamego momentu zaczęliśmy ze sobą pisać codziennie, często po nocach wysyłaliśmy sobie piosenki. Ja Ci pokazywałem Łonę, Ty mi Lanę i no tak to sobie trwało')
         st.write('To był jeszcze okres kiedy pracowałem w korporacji i to był też okres, w którym zacząłem zadawać sobie pytania czy przypadkiem nie chciałbym stworzyć z Tobą jeszcze bliższej relacji no i oczywiście zastanawiałem się co Tobie chodzi w tej kwestii po głowie')
-        st.write('W sumie to pozwolę sobie w tym miejscu na moment szczególnej otwartości i przyznam, że mocno zastanawiałem się czy nasza relacja zyska czy straci w momencie, w którym trafimy razem na rok na UPWr (z powodów, które zostały już między nami omówione), finalnie jednak podjałem znaną Ci decyzję i jak się okazało był to dobry wybór')
+        st.write('W sumie to pozwolę sobie w tym miejscu na moment szczególnej otwartości i przyznam, że mocno zastanawiałem się czy nasza relacja zyska czy straci w momencie, w którym trafimy razem na rok na UPWr (z powodów, które zostały już między nami omówione)')
 
         st.write('Ostatni na ten moment etap naszej znajomości rozpoczął się 1 października 2023 roku, kiedy znowu znaleźliśmy się w tej samej sali wykładowej')
 
@@ -21,7 +21,7 @@ try:
         h0 = st.button('Podpowiedź')
 
         if h0:
-            st.write('Nie mam tutaj na myśli sali, w której odbywały się pierwsze zajęcia')
+            st.write('Nie mam tutaj na myśli sali, w której odbywały się pierwsze zajęcia. Używaj małych liter jbc')
 
         
         if (st.session_state.q8).lower().strip() == 'az':

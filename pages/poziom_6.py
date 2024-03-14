@@ -11,7 +11,7 @@ try:
     if (st.session_state.q5).lower().strip() == 'gigi':
 
         st.write('Jak już wspomniałem rozkwit naszej relacji nie przypadał na okres studiowania na PWr dlatego zbliżamy się w sumie do końca tego etapu. Jak powinnas pamiętać nasza relacja internetowo rozwijała się na początku praktycznie wyłącznie na IG. Specjalnie na potrzeby tej strony cofnąłem się do początku naszych rozmów, żeby zobaczyć jak to tam wyglądało.')
-        st.write('No i muszę przyznać, że zapamiętałem to trochę inaczej. Wyglądało to tak:')
+        st.write('No i muszę przyznać, że zapamiętałem to trochę inaczej. Bo tak to wyglądało naprawdę:')
         st.write('''
                 
                 10 kwietnia wysyłasz do mnie pierwszą wiadomość na ig z komenatrzem odnośnie mojego wspinu na most

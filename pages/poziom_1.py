@@ -36,7 +36,7 @@ try:
         wine = st.button('Ciekawostka na temat wina')
 
         if wine:
-            st.write('Skoro jesteśmy na stronie, na której wspominam Bartka to chciałem też dać znać, że brał on czynny udział w wyborze wina dla Ciebie. Polecił Ukraińskie lub Gruzińskie wino ze szczepu Muscat. Po wizycie w trzech sklepach i czytaniu wielu etykiet najbliższe co znalazłem to Muscat z Mołdawii. Mołdawia sąsiaduje z Ukrainą więc jest nieżle, ok?')
+            st.write('Skoro jesteśmy na stronie, na której wspominam Bartka to chciałem też dać znać, że brał on czynny udział w wyborze wina dla Ciebie. Polecił Ukraińskie lub Gruzińskie wino ze szczepu Muscat. Po wizycie w trzech sklepach i czytaniu wielu etykiet najbliższe co znalazłem to Muscat z Mołdawii. Mołdawia sąsiaduje z Ukrainą i była to najbliższa opcja, ok?')
 
 except AttributeError:
     st.write('Jeżeli widzisz ten komunikat to przejdż do katalogu domowego i wróć na tę stronę')
